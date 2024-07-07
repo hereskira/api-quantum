@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "title": "Quantum Computing Breakthrough",
+        "date": "2024-07-06",
+        "source": "QuantumTech News",
+        "summary": "Researchers achieve a major milestone in quantum computing...",
+        "link": "https://example.com/article1"
+    },
+    {
+        "id": 2,
+        "title": "New Quantum Algorithm Discovered",
+        "date": "2024-07-05",
+        "source": "Quantum Insights",
+        "summary": "A new algorithm promises to revolutionize quantum simulation...",
+        "link": "https://example.com/article2"
+    },
+    {
+        "id": 3,
+        "title": "Quantum Encryption Advancement",
+        "date": "2024-07-04",
+        "source": "SecureQuantum",
+        "summary": "Enhanced security protocols using quantum encryption...",
+        "link": "https://example.com/article3"
+    }
+]
